@@ -25,6 +25,8 @@ Features
 	•	Web Interface: Interactive frontend allowing users to input numbers and select operations.
 	•	Real-time Calculation: Processes user input and displays results dynamically without page reloads.
 
+![Calculator Screenshot](assets/screenshot/web_app.png) 
+
 ⸻
 
 Technologies Used
